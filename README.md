@@ -9,14 +9,14 @@ Ancel's Performance Batch is an Open Source Tweaker that was designed to improve
 The author of this file cannot be held responsible or liable for any damages that may occur to your computer as a result of running this file. Use at your own risk.
 
 # 💻 Requirements
-- Windows 11
+- Windows 10/11
 - Internet Connection
 - Administrator Permissions
 
 # ❓ How to Use?
-1. Go to [Releases](https://github.com/ancel1x/Ancels-Performance-Batch/releases/tag/Latest)
-2. Download **"AncelsPerformanceBatch.bat"**
-3. Run "AncelsPerformanceBatch.bat" as Administrator
+1. Go to Releases
+2. Download **"AncelsPerformanceBatch5_1.bat"**
+3. Run "AncelsPerformanceBatch5_1.bat" as Administrator
 4. Press the Number # for the Optimization you want, and click Enter
 
 # 🤝 Community
